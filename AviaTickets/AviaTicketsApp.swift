@@ -9,9 +9,12 @@ import SwiftUI
 
 @main
 struct AviaTicketsApp: App {
+    @StateObject private var fetcher = OfferCollectionFetcher()
+    
     var body: some Scene {
         WindowGroup {
             MainTabView()
+                .environmentObject(fetcher)
         }
     }
 }
