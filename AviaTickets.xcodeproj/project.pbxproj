@@ -13,6 +13,7 @@
 		15278FA02C0F397000EC9757 /* MainTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278F9F2C0F397000EC9757 /* MainTabView.swift */; };
 		15278FA22C0F3AC000EC9757 /* TicketsSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278FA12C0F3AC000EC9757 /* TicketsSearchView.swift */; };
 		15278FA42C0F419400EC9757 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278FA32C0F419400EC9757 /* Offer.swift */; };
+		15278FA62C0F431800EC9757 /* OfferCollectionFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278FA52C0F431800EC9757 /* OfferCollectionFetcher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		15278F9F2C0F397000EC9757 /* MainTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabView.swift; sourceTree = "<group>"; };
 		15278FA12C0F3AC000EC9757 /* TicketsSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketsSearchView.swift; sourceTree = "<group>"; };
 		15278FA32C0F419400EC9757 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
+		15278FA52C0F431800EC9757 /* OfferCollectionFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferCollectionFetcher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				15278F952C0F394B00EC9757 /* Assets.xcassets */,
 				15278F972C0F394B00EC9757 /* Preview Content */,
 				15278FA32C0F419400EC9757 /* Offer.swift */,
+				15278FA52C0F431800EC9757 /* OfferCollectionFetcher.swift */,
 			);
 			path = AviaTickets;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				15278FA22C0F3AC000EC9757 /* TicketsSearchView.swift in Sources */,
 				15278FA02C0F397000EC9757 /* MainTabView.swift in Sources */,
 				15278F922C0F394A00EC9757 /* AviaTicketsApp.swift in Sources */,
+				15278FA62C0F431800EC9757 /* OfferCollectionFetcher.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
