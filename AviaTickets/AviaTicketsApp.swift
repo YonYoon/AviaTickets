@@ -11,7 +11,7 @@ import SwiftUI
 struct AviaTicketsApp: App {
     var body: some Scene {
         WindowGroup {
-            TabView()
+            MainTabView()
         }
     }
 }
