@@ -11,6 +11,7 @@
 		15278F962C0F394B00EC9757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15278F952C0F394B00EC9757 /* Assets.xcassets */; };
 		15278F992C0F394B00EC9757 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15278F982C0F394B00EC9757 /* Preview Assets.xcassets */; };
 		15278FA02C0F397000EC9757 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278F9F2C0F397000EC9757 /* TabView.swift */; };
+		15278FA22C0F3AC000EC9757 /* TicketsSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278FA12C0F3AC000EC9757 /* TicketsSearchView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		15278F952C0F394B00EC9757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15278F982C0F394B00EC9757 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		15278F9F2C0F397000EC9757 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
+		15278FA12C0F3AC000EC9757 /* TicketsSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketsSearchView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				15278F9F2C0F397000EC9757 /* TabView.swift */,
 				15278F952C0F394B00EC9757 /* Assets.xcassets */,
 				15278F972C0F394B00EC9757 /* Preview Content */,
+				15278FA12C0F3AC000EC9757 /* TicketsSearchView.swift */,
 			);
 			path = AviaTickets;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				15278FA22C0F3AC000EC9757 /* TicketsSearchView.swift in Sources */,
 				15278FA02C0F397000EC9757 /* TabView.swift in Sources */,
 				15278F922C0F394A00EC9757 /* AviaTicketsApp.swift in Sources */,
 			);
