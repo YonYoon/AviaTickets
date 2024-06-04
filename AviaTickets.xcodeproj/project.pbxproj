@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		15278F922C0F394A00EC9757 /* AviaTicketsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278F912C0F394A00EC9757 /* AviaTicketsApp.swift */; };
-		15278F942C0F394A00EC9757 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278F932C0F394A00EC9757 /* ContentView.swift */; };
 		15278F962C0F394B00EC9757 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15278F952C0F394B00EC9757 /* Assets.xcassets */; };
 		15278F992C0F394B00EC9757 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15278F982C0F394B00EC9757 /* Preview Assets.xcassets */; };
 		15278FA02C0F397000EC9757 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15278F9F2C0F397000EC9757 /* TabView.swift */; };
@@ -17,7 +16,6 @@
 /* Begin PBXFileReference section */
 		15278F8E2C0F394A00EC9757 /* AviaTickets.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AviaTickets.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15278F912C0F394A00EC9757 /* AviaTicketsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AviaTicketsApp.swift; sourceTree = "<group>"; };
-		15278F932C0F394A00EC9757 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		15278F952C0F394B00EC9757 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15278F982C0F394B00EC9757 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		15278F9F2C0F397000EC9757 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
@@ -54,7 +52,6 @@
 			isa = PBXGroup;
 			children = (
 				15278F912C0F394A00EC9757 /* AviaTicketsApp.swift */,
-				15278F932C0F394A00EC9757 /* ContentView.swift */,
 				15278F9F2C0F397000EC9757 /* TabView.swift */,
 				15278F952C0F394B00EC9757 /* Assets.xcassets */,
 				15278F972C0F394B00EC9757 /* Preview Content */,
@@ -140,7 +137,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				15278F942C0F394A00EC9757 /* ContentView.swift in Sources */,
 				15278FA02C0F397000EC9757 /* TabView.swift in Sources */,
 				15278F922C0F394A00EC9757 /* AviaTicketsApp.swift in Sources */,
 			);
